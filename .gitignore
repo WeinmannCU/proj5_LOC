@@ -1,0 +1,72 @@
+# Unreal Engine generated files
+Binaries/
+DerivedDataCache/
+Intermediate/
+Saved/
+Build/
+
+# Visual Studio / IDE
+.vs/
+*.VC.db
+*.VC.opendb
+*.sln
+*.suo
+*.opensdf
+*.sdf
+*.log
+
+# Rider / JetBrains
+.idea/
+*.DotSettings.user
+
+# Xcode (Mac)
+*.xcworkspace
+*.xcuserdata
+*.xcodeproj
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Autosaves
+Saved/Autosaves/
+Saved/Backup/
+
+# Crash reports
+Saved/Crashes/
+
+# Compiled source files
+*.obj
+*.o
+*.so
+*.dll
+*.exe
+*.app
+
+# Unreal specific
+*.opensdf
+*.sdf
+*.pdb
+
+# Ignore packaged builds
+WindowsNoEditor/
+LinuxNoEditor/
+MacNoEditor/
+
+# Ignore local config overrides
+Saved/Config/Windows/
+Saved/Config/Linux/
+Saved/Config/Mac/
+
+# Ignore VR template generated cache (covered by above but explicit)
+Saved/VR/
+
+# Ignore Plugins (file or folder as requested)
+Plugins/
+
+# Optional: Ignore large assets if using LFS instead
+# Content/*.uasset
+# Content/*.umap
